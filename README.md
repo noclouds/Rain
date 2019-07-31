@@ -5,7 +5,7 @@ Complete content delivery and communications and personal broadcasting platform 
 
 2) User content hosting on distributed URLs, home PCs, and mobile devices.
 
-3) No user account registrations required for secure services. No registration required, ever; not even to be one an owner of the network.
+3) No user account registrations required for secure services. No registration required, ever; not even to be an owner of the network.
 
 4) Highly incentivised network participation through ownership and digital content rights and saleability of network ownership.
 
